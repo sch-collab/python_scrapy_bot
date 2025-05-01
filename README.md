@@ -1,4 +1,4 @@
-<h1> python_scrapy_bot </h1>
+<h1> sc_bot </h1>
 ##################
 
 This project includes some several python bot & scrapping projects.
