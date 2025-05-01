@@ -3,7 +3,7 @@ It is a simple scraper to get data from
 
 It is a website for introducing companies and also their information.
 Main spider code is 
-* https://github.com/crazy-djactor/python_scrapy_bot/blob/master/betacompanieeshouse/betacompanieeshouse/spiders/companieshouse_crawler.py
+* https://github.com/sch-collab/sc_bot/blob/master/betacompanieeshouse/betacompanieeshouse/spiders/companieshouse_crawler.py
 
 Informations are in forms as followings.
 
